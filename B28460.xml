@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals humbly offered to the consideration of the honourable the knights, citizens and burgesses, in Parliament assembled, for the raising of six millions of pounds sterling, for the carrying on the war against France with vigor.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28460</idno><idno type="EEBO-CITATION">99885652</idno>
+  <idno type="VID">201569</idno>
+  <idno type="EEBO-PROQUEST">2240886800</idno>
+  
+            <idno type="STC">Wing P3753F</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.6[19]</idno>
+            <idno type="STC">ESTC R224785</idno>
+            <idno type="PROQUEST">ocm99885652</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885652e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28460)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201569)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C25:3[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals humbly offered to the consideration of the honourable the knights, citizens and burgesses, in Parliament assembled, for the raising of six millions of pounds sterling, for the carrying on the war against France with vigor.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  England --  Early works to 1800.</term>
+               <term type="geographic_name">France --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Foreign relations --  France --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201569:1"/>
+            <head>PROPOSALS Humbly offered to the Consideration of the Honourable The Knights, Citizens and Burgesses, in Parliament Assembled, For the Raising of Six Millions of Pounds Sterling, FOR THE <hi>Carrying on the War against France with Vigor.</hi>
+            </head>
+            <p>ALTHOUGH the number of the People are generally computed to be Eight Millions, yet I only compute them to be Six Millions; who, paying One Farthing a Day, doth amount unto Two Millions two hundred eighty one thousand two hundred and fifty Pounds a Year; and settled for Three Years, doth amount unto Six Millions eight hundred forty three thousand seven hundred and fifty Pounds Sterling.</p>
+            <p>The Eight hundred forty three thousand seven hundred and fifty Pounds, may be reckoned for Charges and Interest for the Anticipation of the Mony.</p>
+            <p>Whereas the former Pole-Taxes never amounted to the Sum it was given for, it proceeded from some being Ex<g ref="char:EOLhyphen"/>empted, and others Swearing themselves off; and the Assessors not being put to their Oaths, favour'd their Neghbours; and in some Counties not one third of the People paid as they ought.</p>
+            <p>To prevent which, I would now have all People whatsoever to be Taxed at a Farthing a Day (which is but seven Shillings and seven Pence a Year) and the Sum Collected every Week by Two Persons appointed by the majority of each Parish, the said Parish paying them for the same, and stand Obliged for the Trust reposed in them, and the Mony so Collected; which Mony may be paid Quarterly to the Receiver General appointed for the County.</p>
+            <p>And forasmuch if any Person or Persons should be Exempted from paying this Tax, many that may be able (and ought to pay) would shelter themselves under the Denomination of such as cannot and ought not to pay,</p>
+            <p>Therefore I humbly propose, That the Assessors for this Tax may be Chose by the majority of the Persons that shall meet for that purpose in each Parish; and that all Housekeepers shall be obliged to send in to the said Assessors (who should be Seven in Number, on Oath) a true Account, in Writing, of the Names of the Persons in their Houses, under a Penalty of Five Pounds; and where the Assessors finds any uncapable to pay this. Tax, the Parish to pay it for them; and the same to be Rated on the Parishioners, in the same proportion as they do for the Poor's Tax.</p>
+            <p>By this means, although all are Rated at a Farthing a Day, yet the richer sort of People paying for the Poor in each Parish, will come to pay considerably more.</p>
+            <p>I also propose, That all Persons that are possessed of a Real or Personal Estate, or Office of One hundred Pounds a Year, pay for Themselves, Wives and Children, the whole Three Years Tax in Two Years, in two equal Payments; which, supposing to be Twelve in Number, with Himself, Wife and Ten Children, is but six Pounds sixteen Shillings and Ten Pence a Year; whereas, by the Land-Tax, they would pay in the Three Years sixty Pounds, which is twenty Pound a Year.</p>
+            <p>All likewise that are worth Two hundred Pounds a Year, should pay the whole three Years Tax together the first Year.</p>
+            <p>By this means a great part of this Duty will come in, and incourage People to lend Mony on it; and will be less Charge to the Nation, not paying so much Interest as otherwise it would be.</p>
+            <p>And considering the heavy Burden that Landed-men have lain under during this War, and that probability they may again feel it the next Year, this Tax cannot, for this Reason, be thought unequal.</p>
+            <p>This Tax will be as certain an Income as a Land-Tax to the Crown.</p>
+            <p>This Tax will be insensible on the poorer sort the paying of it Weekly, and not so much to them as a Halfpenny a Pound Excise on Flesh, which would be a Farthing a Day (reckoning each to Eat half a Pound) besides what the Butcher would advance; and the same, if laid on Leather, or Corn, or Clothing.</p>
+            <p>This will be of little Charge and Trouble, and less Officers than any Excise can be.</p>
+            <p>And as for Domestick Servants, I apprehend they may pay it as well as any, they having their Meat, Drink, Washing and Lodging free, and daily advance their Wages, when the Masters are at more Charge to maintain them.</p>
+            <p>But if your Honours should think, notwithstanding, this may be an unequal Tax, it lieth before your Honours to advance it on so<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and lower it on others, or to give it for One, Two or more Years.</p>
+            <p>If you think there may be Three Millions of People only that can pay, and if there be Five hundred thousand that pay a Farthing a Day, Five hundred thousand at a Halfpenny a day, one Million at a Penny a Day, and one Million at Two Pence a Day, it will amount unto Five Millions one hundred and eighteen thousand seven hundred and fifty Pounds a Year; and then all the poorer sort and their Children are exempted, and the rest will pay but Seven Shillings and seven Pence, Fifteen and two Pence, Thirty Shillings and four Pence, and Three Pound and eight Pence a Year the highest.</p>
+            <p>
+               <hi>Memorandum,</hi> The only Objection that I foresee can be brought against this Proposal, is, That the Out-Parishes, and many others, may have a great many Poor to pay for, over and above what others have; for the Remedying of which, the Charge of the Poor may be proportionably laid on the whole County.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:201569:2"/>
+            <p>Proposals for the Raising Six Millions of Pounds In Three Years. OR, Five Millions one hundred and eighteen thousand seven hun<g ref="char:EOLhyphen"/>dred and fifty Pounds a Year.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
